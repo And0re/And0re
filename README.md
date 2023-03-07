@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/And0re/ama)
-
 ![Profile views](https://gpvc.arturio.dev/And0re)
 
-[![André's github stats](https://github-readme-stats.vercel.app/api?username=And0re&theme=blue-green)](https://github.com/And0re/github-readme-stats)
+[![André's github stats](https://github-readme-stats.vercel.app/api?username=and0re&count_private=true&show_icons=true&theme=dracula)](https://github.com/And0re/github-readme-stats)
+[![André's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=And0re&theme=blue-green)](https://github.com/And0re/github-readme-stats)
 
 <!--
 **And0re/And0re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/And0re/ama)
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
