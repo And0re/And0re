@@ -23,6 +23,8 @@
 </a>
 
 <!--
+To do: correo/linkedin/discord
+
 ![Profile views](https://gpvc.arturio.dev/And0re)
 [![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
