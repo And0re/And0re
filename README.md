@@ -6,7 +6,7 @@
 - 🌱 I’m currently practicing with Rails and React
 - 👯 I’m looking for job opportunities as a Full Stack developer
 - 💬 Ask me about any programming topic, especially if you are just starting your path
-- 📫 How to reach me: andretavarajara@gmail.com
+- 📫 How to reach me: andretj_92@live.com
 - ⚡ Fun fact: My nickname is Andore, feel free to call me that
 
 ### Inventory
